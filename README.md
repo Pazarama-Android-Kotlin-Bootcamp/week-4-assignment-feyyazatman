@@ -1,3 +1,14 @@
+
+## Ödev Detayları
+
+- Uygulama Openweathermap api'si kullanılarak yapıldı. 
+- Weather sayfasında günlere göre hava durumu ve sıcaklık değerleri ekrana yazdırılır.
+- Detail sayfasında ise seçilen günün dilimlerine göre tahmini sıcaklık değerleri ekrana yazdırılır.
+
+![](AppGif/app.gif)
+
+--------------------
+
 # Week-4-Assignment
 
 1. https://openweathermap.org/api kullanılarak bir hava durumu uygulaması geliştirilecektir. 2. https://marvelapp.com/prototype/70f2bha/screen/78478137 Buradan mockup ekranlarına bakabilirsiniz.
